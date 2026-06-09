@@ -15,5 +15,5 @@ The React Compiler is not enabled on this template because of its impact on dev 
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
 # Moon-Bracelet
-![image alt]<img width="1324" height="1478" alt="WhatsApp Image 2026-06-09 at 5 55 46 PM" src="https://github.com/user-attachments/assets/a0191539-a57d-41ef-9bd4-368e18a30869" />
+![image alt](<img width="1324" height="1478" alt="WhatsApp Image 2026-06-09 at 5 55 46 PM" src="https://github.com/user-attachments/assets/a0191539-a57d-41ef-9bd4-368e18a30869" />)
 
